@@ -1,0 +1,22 @@
+a:link {
+    color: #2222FF;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #1111EE;
+    background-color: transparent;
+    text-decoration: italic;
+}
+h3{
+text-align: right; word-spacing: 20px;font-family: "Times New Roman", Times, serif;font-size: 22px;padding-top: 12px;padding-right: 15px;}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+#division{
+       height: 50px;
+       width: 100%;
+       background-color:#333333;}

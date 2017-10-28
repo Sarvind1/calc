@@ -1,0 +1,48 @@
+.ody {
+    background-image:url("pexels-photo-55787.jpeg");
+    min-height: 100%;
+    background-size: cover;
+}
+h1 {
+    color: navy;
+    margin-left: 20px;
+    margin-right:60px;
+    outline: 5px dotted blue;
+}
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+p.dotted {border-style: dotted;}
+p.dashed {border-style: dashed;}
+p.solid {border-style: solid;}
+p.double {border-style: double;}
+p.groove {border-style: groove;}
+p.ridge {border-style: ridge;
+			margin:auto;
+			padding-top: 50px;
+             	        padding-right: 30px;
+    			padding-bottom: 50px;
+    			padding-left: 80px;
+			border-color: green;
+			color:yellow;}
+p.inset {border-style: inset;}
+p.outset {border-style: outset;}
+p.none {border-style: none;}
+p.hidden {border-style: hidden;}
+p.mix {border-style: dotted dashed solid double;
+		outline: 15px dotted gold;
+		outline-offset:30px;
+		margin-top: 100px;
+    		margin-bottom: 100px;
+    		margin-left: 100px;
+    		color:red;
+    		height: 100px;
+  		width: 500px;
+   		background-color: ;
+    		}
+
