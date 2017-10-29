@@ -140,6 +140,14 @@ def tan():
     p.delete(0,len(p1))
     p3=math.tan(x)
     p.insert(0,p3)
+def tan-1():
+    p1=p.get()
+    p1=str(p1)
+    global x
+    x=float(p1)
+    p.delete(0, len(p1))
+    p3=math.atan(x)
+    p.insert(0,p3)
 def log():
     p1=p.get()
     p1=str(p1)
